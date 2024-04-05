@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="colorPrimary">#214788</color>
+    <color name="colorPrimaryDark">#214788</color>
+    <color name="colorAccent">#E94B51</color>
+
+    <color name="colorPrimary2">#35A4DC</color>
+    <color name="colorPrimaryDark2">#35A4DC</color>
+    <color name="colorAccent2">#E94B51</color>
+
+    <color name="colorPrimary1">#122A8C</color>
+    <color name="colorPrimaryDark1">#122A8C</color>
+    <color name="colorAccent1">#EB561C</color>
+
+    <color name="colorWhite">#ffffff</color>
+    <color name="white">#FFFFFF</color>
+    <color name="colorBlack">#000000</color>
+
+    <color name="colorTeal">#009587</color>
+
+    <color name="colorSkyBlue">#01A6FF</color>
+    <color name="colorYellow">#FDCE4C</color>
+
+    <color name="colorSuggestion">#FCE565</color>
+
+    <color name="colorTextBg">#C7EDFC</color>
+
+    <color name="colorCustomerBg">#f9fbe7</color>
+    <color name="colorTextBg2">#80C7EDFC</color>
+
+    <color name="colorLoginStart">#339ed6</color>
+    <color name="colorLoginEnd">#214788</color>
+
+    <color name="colorOrangeLight">#ff8a65</color>
+    <color name="colorOrange">#EA4C25</color>
+
+    <color name="colorSearchBG">#3C5C70</color>
+
+    <color name="colorInputPageBackground">#F0F0F0</color>
+
+    <color name="colorDetailsDialog">#1565C0</color>
+
+    <color name="colorRed">@android:color/holo_red_dark</color>
+    <color name="colorGreen">@android:color/holo_green_dark</color>
+
+    <!--grey-->
+    <color name="md_grey_50">#FAFAFA</color>
+    <color name="md_grey_100">#F5F5F5</color>
+    <color name="md_grey_200">#EEEEEE</color>
+    <color name="md_grey_300">#E0E0E0</color>
+    <color name="md_grey_400">#BDBDBD</color>
+    <color name="md_grey_500">#9E9E9E</color>
+    <color name="md_grey_600">#757575</color>
+    <color name="md_grey_700">#616161</color>
+    <color name="md_grey_800">#424242</color>
+    <color name="md_grey_900">#212121</color>
+
+    <color name="textColor">#6616EB</color>
+    <color name="colorA">#6616EB</color>
+    <color name="colorB">#AE75F8</color>
+    <color name="colorC">#EB7286</color>
+    <color name="colorD">#E0E0E0</color>
+    <color name="colorE">#97A99B</color>
+    <color name="colorF">#909092</color>
+    <color name="colorG">#3FA6DD</color>
+    <color name="colorX">#FF6363</color>
+    <color name="colorP">#53C5F4</color>
+    <color name="colorQ">#B99C6F</color>
+    <color name="colorR">#ABABAB</color>
+    <color name="colorS">#F4F7FA</color>
+    <color name="viewColor">#CFCDCD</color>
+    <color name="borderColor">#39A3DC</color>
+    <color name="wlvBack">#E0E0E0</color>
+    <color name="background">#E9E7E7</color>
+
+
+    <!-- Hex Opacity Values
+    100% — FF
+    95% — F2
+    90% — E6
+    85% — D9
+    80% — CC
+    75% — BF
+    70% — B3
+    65% — A6
+    60% — 99
+    55% — 8C
+    50% — 80
+    45% — 73
+    40% — 66
+    35% — 59
+    30% — 4D
+    25% — 40
+    20% — 33
+    15% — 26
+    10% — 1A
+    5% — 0D
+    0% — 00 -->
+</resources>
